@@ -1,0 +1,6 @@
+#igonore all log files
+*.log
+
+#ignore all package-lock.json and nodeModules
+node_modules/
+package-lock.json 
